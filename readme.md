@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [my github profile]
 
 - 💬 Ask me about **coffee**
 
