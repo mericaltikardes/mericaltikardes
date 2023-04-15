@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meriç Altıkardeş</h1>
-<h3 align="center">Backend Developer</h3>
+<h2 align="center">Backend Developer</h2>
 
 - 🌱 I’m currently learning **Spring Boot**
 
